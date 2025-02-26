@@ -2,7 +2,7 @@
 import streamlit as st 
 
 st.set_page_config(page_title= "Growth-mindset-project", page_icon=" ⭐")
-st.title("Growth Mindset Challenge: Web App with Streamlit")
+st.title("Growth Mindset Challenge: Web App with Streamlit 🍁")
 
 st.header("🚀 Welcome to your Growth journey!")
 st.write("🌱 Do not be afraid to grow. Its the only way to find out how strong you really are. Every day is a new beginning. Take a deep breath, smile, and start again.")
@@ -24,7 +24,7 @@ else:
 
 # reflexing 
 
-st.header("Reflect on Your Learning")
+st.header(" 🍁 Reflect on Your Learning")
 reflection = st.text_area("write your reflection here:")
 
 if reflection:
