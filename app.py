@@ -1,7 +1,7 @@
 # streamlit 
 import streamlit as st 
 
-st.set_page_config(page_title= "Growth-mindset-project", project_icon=" ⭐")
+st.set_page_config(page_title= "Growth-mindset-project", page_icon=" ⭐")
 st.title("Growth Mindset Challenge: Web App with Streamlit")
 
 st.header("🚀 Welcome to your Growth journey!")
